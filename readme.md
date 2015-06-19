@@ -22,6 +22,8 @@ You may not use any of the following tags:
 <b>
 <i>
 <u>
+<center>
+<font>
 <pre>
 <code>
 <kbd>
