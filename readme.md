@@ -44,6 +44,10 @@ bgcolor=
 
 #### TLDR: No styling allowed!
 
+-----
+
+# Part 1
+
 ## To submit:
 
 Put your HTML into a Gist, for which you will need to be logged in to your Github account:
@@ -76,3 +80,19 @@ Come back to this page, and create a new issue that contains a link to your Gist
 - Click "new issue"
 - Paste the link to your Gist. Be sure to include your comfort, completeness, and any questions or concerns you may have had.
 - Click "Submit new issue"
+
+-----
+
+# Part 2 
+
+## Publish your site on Github
+
+1. If you haven't already, put all the files for your page in a folder by themselves
+- Initialize a local Git repo inside that folder
+- Add and commit your files to that repo
+- Create a Github repository called `YourGithubUsername.github.io`
+- Add that Github repository as a remote to your local repository
+- Push your files to the remote repository
+- In your web browser, go to `YourGithubUsername.github.io`
+- Revel in the positive feels from having published this webpage!
+
